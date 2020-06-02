@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://36.255.252.196/testenv/semservice/';
+$config['base_url'] = '';
 /*
 |--------------------------------------------------------------------------
 | Index File
